@@ -46,7 +46,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 494}
   m_MaxSize: {x: 14004, y: 14044}
   vertical: 1
-  controlID: 126
+  controlID: 106
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -71,7 +71,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 494}
   m_MaxSize: {x: 14004, y: 14044}
   vertical: 0
-  controlID: 127
+  controlID: 107
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -154,7 +154,7 @@ MonoBehaviour:
   - {fileID: 15}
   - {fileID: 17}
   m_Selected: 0
-  m_LastSelected: 3
+  m_LastSelected: 1
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -246,7 +246,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 494}
   m_MaxSize: {x: 10002, y: 14044}
   vertical: 1
-  controlID: 63
+  controlID: 42
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -271,7 +271,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 222}
   m_MaxSize: {x: 8006, y: 4022}
   vertical: 0
-  controlID: 64
+  controlID: 43
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -329,7 +329,7 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   Collection:
     filter: 0
-    lastUpdateTime: Jan 6, 09:49
+    lastUpdateTime: Jan 6, 10:11
     listPackagesOffline:
     - Name: com.unity.2d.sprite
       DisplayName: 2D Sprite
@@ -464,7 +464,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.2.16
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.collab-proxy@1.2.16
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.collab-proxy@1.2.16
         m_AssetPath: Packages/com.unity.collab-proxy
         m_Name: com.unity.collab-proxy
         m_DisplayName: Unity Collaborate
@@ -542,7 +542,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.2.16
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.collab-proxy@1.2.16
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.collab-proxy@1.2.16
         m_AssetPath: Packages/com.unity.collab-proxy
         m_Name: com.unity.collab-proxy
         m_DisplayName: Unity Collaborate
@@ -620,7 +620,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.2.16
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.collab-proxy@1.2.16
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.collab-proxy@1.2.16
         m_AssetPath: Packages/com.unity.collab-proxy
         m_Name: com.unity.collab-proxy
         m_DisplayName: Unity Collaborate
@@ -698,7 +698,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.2.16
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.collab-proxy@1.2.16
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.collab-proxy@1.2.16
         m_AssetPath: Packages/com.unity.collab-proxy
         m_Name: com.unity.collab-proxy
         m_DisplayName: Unity Collaborate
@@ -776,7 +776,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.2.16
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.collab-proxy@1.2.16
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.collab-proxy@1.2.16
         m_AssetPath: Packages/com.unity.collab-proxy
         m_Name: com.unity.collab-proxy
         m_DisplayName: Unity Collaborate
@@ -854,7 +854,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ext.nunit@1.0.0
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ext.nunit@1.0.0
         m_AssetPath: Packages/com.unity.ext.nunit
         m_Name: com.unity.ext.nunit
         m_DisplayName: Custom NUnit
@@ -916,7 +916,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ext.nunit@1.0.0
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ext.nunit@1.0.0
         m_AssetPath: Packages/com.unity.ext.nunit
         m_Name: com.unity.ext.nunit
         m_DisplayName: Custom NUnit
@@ -978,7 +978,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ext.nunit@1.0.0
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ext.nunit@1.0.0
         m_AssetPath: Packages/com.unity.ext.nunit
         m_Name: com.unity.ext.nunit
         m_DisplayName: Custom NUnit
@@ -1040,7 +1040,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ext.nunit@1.0.0
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ext.nunit@1.0.0
         m_AssetPath: Packages/com.unity.ext.nunit
         m_Name: com.unity.ext.nunit
         m_DisplayName: Custom NUnit
@@ -1103,7 +1103,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -1185,7 +1185,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -1267,7 +1267,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -1349,7 +1349,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -1431,7 +1431,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -1513,7 +1513,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -1595,7 +1595,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -1677,7 +1677,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -1759,7 +1759,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -1841,7 +1841,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -1923,7 +1923,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -2005,7 +2005,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -2087,7 +2087,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.2
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.vscode@1.1.2
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.vscode@1.1.2
         m_AssetPath: Packages/com.unity.ide.vscode
         m_Name: com.unity.ide.vscode
         m_DisplayName: Visual Studio Code Editor
@@ -2152,7 +2152,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.2
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.vscode@1.1.2
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.vscode@1.1.2
         m_AssetPath: Packages/com.unity.ide.vscode
         m_Name: com.unity.ide.vscode
         m_DisplayName: Visual Studio Code Editor
@@ -2217,7 +2217,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.2
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.vscode@1.1.2
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.vscode@1.1.2
         m_AssetPath: Packages/com.unity.ide.vscode
         m_Name: com.unity.ide.vscode
         m_DisplayName: Visual Studio Code Editor
@@ -2282,7 +2282,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.2
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.vscode@1.1.2
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.vscode@1.1.2
         m_AssetPath: Packages/com.unity.ide.vscode
         m_Name: com.unity.ide.vscode
         m_DisplayName: Visual Studio Code Editor
@@ -2347,7 +2347,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.2
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.vscode@1.1.2
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.vscode@1.1.2
         m_AssetPath: Packages/com.unity.ide.vscode
         m_Name: com.unity.ide.vscode
         m_DisplayName: Visual Studio Code Editor
@@ -2412,7 +2412,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.2
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.vscode@1.1.2
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.vscode@1.1.2
         m_AssetPath: Packages/com.unity.ide.vscode
         m_Name: com.unity.ide.vscode
         m_DisplayName: Visual Studio Code Editor
@@ -2534,7 +2534,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -2628,7 +2628,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -2722,7 +2722,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -2816,7 +2816,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -2910,7 +2910,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -3004,7 +3004,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -3098,7 +3098,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -3192,7 +3192,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -3286,7 +3286,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -3380,7 +3380,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -3474,7 +3474,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -3568,7 +3568,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -3662,7 +3662,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -3756,7 +3756,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -3850,7 +3850,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -3944,7 +3944,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -4038,7 +4038,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -4132,7 +4132,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -4226,7 +4226,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -4346,7 +4346,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -4512,7 +4512,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -4678,7 +4678,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -4844,7 +4844,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -5010,7 +5010,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -5176,7 +5176,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -5342,7 +5342,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -5508,7 +5508,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -5674,7 +5674,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -5840,7 +5840,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -6006,7 +6006,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -6172,7 +6172,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -6338,7 +6338,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -6504,7 +6504,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -6670,7 +6670,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -6836,7 +6836,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -7002,7 +7002,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -7168,7 +7168,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -7334,7 +7334,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -7500,7 +7500,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -7666,7 +7666,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -7832,7 +7832,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -7998,7 +7998,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -8164,7 +8164,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -8330,7 +8330,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -8496,7 +8496,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -8662,7 +8662,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -8828,7 +8828,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -10971,7 +10971,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.2.16
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.collab-proxy@1.2.16
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.collab-proxy@1.2.16
         m_AssetPath: Packages/com.unity.collab-proxy
         m_Name: com.unity.collab-proxy
         m_DisplayName: Unity Collaborate
@@ -11049,7 +11049,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.2.16
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.collab-proxy@1.2.16
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.collab-proxy@1.2.16
         m_AssetPath: Packages/com.unity.collab-proxy
         m_Name: com.unity.collab-proxy
         m_DisplayName: Unity Collaborate
@@ -11127,7 +11127,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.2.16
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.collab-proxy@1.2.16
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.collab-proxy@1.2.16
         m_AssetPath: Packages/com.unity.collab-proxy
         m_Name: com.unity.collab-proxy
         m_DisplayName: Unity Collaborate
@@ -11205,7 +11205,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.2.16
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.collab-proxy@1.2.16
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.collab-proxy@1.2.16
         m_AssetPath: Packages/com.unity.collab-proxy
         m_Name: com.unity.collab-proxy
         m_DisplayName: Unity Collaborate
@@ -11283,7 +11283,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.2.16
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.collab-proxy@1.2.16
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.collab-proxy@1.2.16
         m_AssetPath: Packages/com.unity.collab-proxy
         m_Name: com.unity.collab-proxy
         m_DisplayName: Unity Collaborate
@@ -11361,7 +11361,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ext.nunit@1.0.0
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ext.nunit@1.0.0
         m_AssetPath: Packages/com.unity.ext.nunit
         m_Name: com.unity.ext.nunit
         m_DisplayName: Custom NUnit
@@ -11423,7 +11423,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ext.nunit@1.0.0
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ext.nunit@1.0.0
         m_AssetPath: Packages/com.unity.ext.nunit
         m_Name: com.unity.ext.nunit
         m_DisplayName: Custom NUnit
@@ -11485,7 +11485,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ext.nunit@1.0.0
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ext.nunit@1.0.0
         m_AssetPath: Packages/com.unity.ext.nunit
         m_Name: com.unity.ext.nunit
         m_DisplayName: Custom NUnit
@@ -11547,7 +11547,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ext.nunit@1.0.0
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ext.nunit@1.0.0
         m_AssetPath: Packages/com.unity.ext.nunit
         m_Name: com.unity.ext.nunit
         m_DisplayName: Custom NUnit
@@ -11610,7 +11610,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -11692,7 +11692,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -11774,7 +11774,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -11856,7 +11856,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -11938,7 +11938,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -12020,7 +12020,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -12102,7 +12102,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -12184,7 +12184,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -12266,7 +12266,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -12348,7 +12348,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -12430,7 +12430,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -12512,7 +12512,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -12594,7 +12594,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.2
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.vscode@1.1.2
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.vscode@1.1.2
         m_AssetPath: Packages/com.unity.ide.vscode
         m_Name: com.unity.ide.vscode
         m_DisplayName: Visual Studio Code Editor
@@ -12659,7 +12659,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.2
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.vscode@1.1.2
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.vscode@1.1.2
         m_AssetPath: Packages/com.unity.ide.vscode
         m_Name: com.unity.ide.vscode
         m_DisplayName: Visual Studio Code Editor
@@ -12724,7 +12724,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.2
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.vscode@1.1.2
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.vscode@1.1.2
         m_AssetPath: Packages/com.unity.ide.vscode
         m_Name: com.unity.ide.vscode
         m_DisplayName: Visual Studio Code Editor
@@ -12789,7 +12789,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.2
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.vscode@1.1.2
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.vscode@1.1.2
         m_AssetPath: Packages/com.unity.ide.vscode
         m_Name: com.unity.ide.vscode
         m_DisplayName: Visual Studio Code Editor
@@ -12854,7 +12854,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.2
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.vscode@1.1.2
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.vscode@1.1.2
         m_AssetPath: Packages/com.unity.ide.vscode
         m_Name: com.unity.ide.vscode
         m_DisplayName: Visual Studio Code Editor
@@ -12919,7 +12919,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.2
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.vscode@1.1.2
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ide.vscode@1.1.2
         m_AssetPath: Packages/com.unity.ide.vscode
         m_Name: com.unity.ide.vscode
         m_DisplayName: Visual Studio Code Editor
@@ -13041,7 +13041,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -13135,7 +13135,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -13229,7 +13229,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -13323,7 +13323,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -13417,7 +13417,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -13511,7 +13511,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -13605,7 +13605,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -13699,7 +13699,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -13793,7 +13793,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -13887,7 +13887,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -13981,7 +13981,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -14075,7 +14075,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -14169,7 +14169,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -14263,7 +14263,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -14357,7 +14357,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -14451,7 +14451,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -14545,7 +14545,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -14639,7 +14639,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -14733,7 +14733,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -14853,7 +14853,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -15019,7 +15019,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -15185,7 +15185,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -15351,7 +15351,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -15517,7 +15517,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -15683,7 +15683,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -15849,7 +15849,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -16015,7 +16015,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -16181,7 +16181,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -16347,7 +16347,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -16513,7 +16513,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -16679,7 +16679,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -16845,7 +16845,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -17011,7 +17011,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -17177,7 +17177,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -17343,7 +17343,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -17509,7 +17509,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -17675,7 +17675,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -17841,7 +17841,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -18007,7 +18007,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -18173,7 +18173,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -18339,7 +18339,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -18505,7 +18505,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -18671,7 +18671,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -18837,7 +18837,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -19003,7 +19003,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -19169,7 +19169,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -19335,7 +19335,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -42107,7 +42107,7 @@ MonoBehaviour:
         m_IsDirectDependency: 0
         m_Version: 1.2.16
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.collab-proxy@1.2.16
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.collab-proxy@1.2.16
         m_AssetPath: Packages/com.unity.collab-proxy
         m_Name: com.unity.collab-proxy
         m_DisplayName: Unity Collaborate
@@ -42185,7 +42185,7 @@ MonoBehaviour:
         m_IsDirectDependency: 0
         m_Version: 1.2.16
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.collab-proxy@1.2.16
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.collab-proxy@1.2.16
         m_AssetPath: Packages/com.unity.collab-proxy
         m_Name: com.unity.collab-proxy
         m_DisplayName: Unity Collaborate
@@ -42263,7 +42263,7 @@ MonoBehaviour:
         m_IsDirectDependency: 0
         m_Version: 1.2.16
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.collab-proxy@1.2.16
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.collab-proxy@1.2.16
         m_AssetPath: Packages/com.unity.collab-proxy
         m_Name: com.unity.collab-proxy
         m_DisplayName: Unity Collaborate
@@ -42341,7 +42341,7 @@ MonoBehaviour:
         m_IsDirectDependency: 0
         m_Version: 1.2.16
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.collab-proxy@1.2.16
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.collab-proxy@1.2.16
         m_AssetPath: Packages/com.unity.collab-proxy
         m_Name: com.unity.collab-proxy
         m_DisplayName: Unity Collaborate
@@ -42419,7 +42419,7 @@ MonoBehaviour:
         m_IsDirectDependency: 0
         m_Version: 1.2.16
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.collab-proxy@1.2.16
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.collab-proxy@1.2.16
         m_AssetPath: Packages/com.unity.collab-proxy
         m_Name: com.unity.collab-proxy
         m_DisplayName: Unity Collaborate
@@ -49463,7 +49463,7 @@ MonoBehaviour:
         m_IsDirectDependency: 0
         m_Version: 1.0.0
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ext.nunit@1.0.0
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ext.nunit@1.0.0
         m_AssetPath: Packages/com.unity.ext.nunit
         m_Name: com.unity.ext.nunit
         m_DisplayName: Custom NUnit
@@ -49525,7 +49525,7 @@ MonoBehaviour:
         m_IsDirectDependency: 0
         m_Version: 1.0.0
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ext.nunit@1.0.0
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ext.nunit@1.0.0
         m_AssetPath: Packages/com.unity.ext.nunit
         m_Name: com.unity.ext.nunit
         m_DisplayName: Custom NUnit
@@ -49587,7 +49587,7 @@ MonoBehaviour:
         m_IsDirectDependency: 0
         m_Version: 1.0.0
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ext.nunit@1.0.0
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ext.nunit@1.0.0
         m_AssetPath: Packages/com.unity.ext.nunit
         m_Name: com.unity.ext.nunit
         m_DisplayName: Custom NUnit
@@ -49649,7 +49649,7 @@ MonoBehaviour:
         m_IsDirectDependency: 0
         m_Version: 1.0.0
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ext.nunit@1.0.0
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.ext.nunit@1.0.0
         m_AssetPath: Packages/com.unity.ext.nunit
         m_Name: com.unity.ext.nunit
         m_DisplayName: Custom NUnit
@@ -91111,7 +91111,7 @@ MonoBehaviour:
         m_IsDirectDependency: 0
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -91275,7 +91275,7 @@ MonoBehaviour:
         m_IsDirectDependency: 0
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -91439,7 +91439,7 @@ MonoBehaviour:
         m_IsDirectDependency: 0
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -91603,7 +91603,7 @@ MonoBehaviour:
         m_IsDirectDependency: 0
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -91767,7 +91767,7 @@ MonoBehaviour:
         m_IsDirectDependency: 0
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -91931,7 +91931,7 @@ MonoBehaviour:
         m_IsDirectDependency: 0
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -92095,7 +92095,7 @@ MonoBehaviour:
         m_IsDirectDependency: 0
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -92259,7 +92259,7 @@ MonoBehaviour:
         m_IsDirectDependency: 0
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -92423,7 +92423,7 @@ MonoBehaviour:
         m_IsDirectDependency: 0
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -92587,7 +92587,7 @@ MonoBehaviour:
         m_IsDirectDependency: 0
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -92751,7 +92751,7 @@ MonoBehaviour:
         m_IsDirectDependency: 0
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -92915,7 +92915,7 @@ MonoBehaviour:
         m_IsDirectDependency: 0
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -93079,7 +93079,7 @@ MonoBehaviour:
         m_IsDirectDependency: 0
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -93243,7 +93243,7 @@ MonoBehaviour:
         m_IsDirectDependency: 0
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -93407,7 +93407,7 @@ MonoBehaviour:
         m_IsDirectDependency: 0
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -93571,7 +93571,7 @@ MonoBehaviour:
         m_IsDirectDependency: 0
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -93735,7 +93735,7 @@ MonoBehaviour:
         m_IsDirectDependency: 0
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -93899,7 +93899,7 @@ MonoBehaviour:
         m_IsDirectDependency: 0
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -94063,7 +94063,7 @@ MonoBehaviour:
         m_IsDirectDependency: 0
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -94227,7 +94227,7 @@ MonoBehaviour:
         m_IsDirectDependency: 0
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -94391,7 +94391,7 @@ MonoBehaviour:
         m_IsDirectDependency: 0
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -94555,7 +94555,7 @@ MonoBehaviour:
         m_IsDirectDependency: 0
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -94719,7 +94719,7 @@ MonoBehaviour:
         m_IsDirectDependency: 0
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -94883,7 +94883,7 @@ MonoBehaviour:
         m_IsDirectDependency: 0
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -95047,7 +95047,7 @@ MonoBehaviour:
         m_IsDirectDependency: 0
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -95211,7 +95211,7 @@ MonoBehaviour:
         m_IsDirectDependency: 0
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -95375,7 +95375,7 @@ MonoBehaviour:
         m_IsDirectDependency: 0
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -95539,7 +95539,7 @@ MonoBehaviour:
         m_IsDirectDependency: 0
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -117625,8 +117625,8 @@ MonoBehaviour:
         m_HideInEditor: 1
         m_DatePublishedTicks: 637000526550000000
       IsInstalled: 0
-    listPackagesVersion: 36
-    listPackagesOfflineVersion: 35
+    listPackagesVersion: 38
+    listPackagesOfflineVersion: 37
     searchOperationOngoing: 0
     listOperationOngoing: 0
     listOperationOfflineOngoing: 0
@@ -118105,14 +118105,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: D:\2019\AM\JC\repo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT
+  m_LastProjectPath: D:\2019\AM\JC\repo\new_PlatofrmerRepo\PLATFORMER-PROJECT-REPO\PLATFORME_GROUP_PROJECT
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: ba2d0000
-    m_LastClickedID: 11706
-    m_ExpandedIDs: 00000000ba2d000000ca9a3b
+    m_SelectedIDs: 8e2d0000
+    m_LastClickedID: 11662
+    m_ExpandedIDs: 000000008e2d000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -118140,7 +118140,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 000000008e2d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -118265,7 +118265,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 62fbffff
+      m_ExpandedIDs: 64fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 

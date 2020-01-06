@@ -1,0 +1,1 @@
+tilemap sheets in here consist of 16x16 tiles. so if you slice by cell size 16x16, it should work appropriately

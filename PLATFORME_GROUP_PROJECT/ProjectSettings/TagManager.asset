@@ -9,6 +9,7 @@ TagManager:
   - item
   - coin
   - platform
+  - Spike
   layers:
   - Default
   - TransparentFX

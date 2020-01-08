@@ -18,6 +18,7 @@ public class PlayerMovement : MonoBehaviour
     float movexaxis;
     float stationaryTime = 0;
     public bool grounded = true;
+    public bool stopped = true;
     // Start is called before the first frame update
     void Start()
     {
@@ -44,6 +45,7 @@ public class PlayerMovement : MonoBehaviour
         }
         else
         {
+            stopped = false;
             movexaxis = Input.GetAxisRaw("Horizontal");
             GetComponent<Animator>().SetInteger("x", 1);
             stationaryTime = 0;
@@ -103,10 +105,11 @@ public class PlayerMovement : MonoBehaviour
         {
             GetComponent<Rigidbody2D>().AddForce(accel * movedir * multiplier / airmove);
         }
-        if (movexaxis == 0 && grounded == true)
+        if (movexaxis == 0 && grounded == true && stopped == false)
         {
             Vector2 stop = new Vector2(0, GetComponent<Rigidbody2D>().velocity.y);
             GetComponent<Rigidbody2D>().velocity = stop;
+            stopped = true;
         }
         //Debug.Log(movexaxis);
     }
@@ -135,7 +138,7 @@ public class PlayerMovement : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.gameObject.tag == "ground")
+        if (collision.gameObject.tag == "ground" || collision.gameObject.tag == "platform")
         {
             grounded = true;
             GameObject.Find("Character").GetComponent<Animator>().SetBool("grounded", grounded);
@@ -148,7 +151,7 @@ public class PlayerMovement : MonoBehaviour
     }
     void OnTriggerStay2D(Collider2D collision)
     {
-        if (collision.gameObject.tag == "ground")
+        if (collision.gameObject.tag == "ground" || collision.gameObject.tag == "platform")
         {
             grounded = true;
             GameObject.Find("Character").GetComponent<Animator>().SetBool("grounded", grounded);
@@ -161,7 +164,7 @@ public class PlayerMovement : MonoBehaviour
     }
     void OnTriggerExit2D(Collider2D collision)
     {
-        if (collision.gameObject.tag == "ground")
+        if (collision.gameObject.tag == "ground" || collision.gameObject.tag == "platform")
         {
             grounded = false;
             GameObject.Find("Character").GetComponent<Animator>().SetBool("grounded", grounded);

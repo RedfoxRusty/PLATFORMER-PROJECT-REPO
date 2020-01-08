@@ -1671,6 +1671,8 @@ MonoBehaviour:
   player: {fileID: 108763481}
   fader: {fileID: 442664030}
   forwardlimit: 1
+  backwardspossible: 1
+  backwardlimit: 1
   upperlimit: 2.5
   lowerlimit: 1.75
   lvlName: 
@@ -16642,7 +16644,7 @@ GameObject:
   - component: {fileID: 896095844}
   m_Layer: 0
   m_Name: platform
-  m_TagString: ground
+  m_TagString: platform
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16698,7 +16700,7 @@ PlatformEffector2D:
   m_SurfaceArc: 180
   m_UseSideFriction: 0
   m_UseSideBounce: 0
-  m_SideArc: 1
+  m_SideArc: 0
 --- !u!212 &896095847
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -26804,6 +26806,7 @@ GameObject:
   - component: {fileID: 1886677279}
   - component: {fileID: 1886677285}
   - component: {fileID: 1886677284}
+  - component: {fileID: 1886677286}
   m_Layer: 8
   m_Name: Character
   m_TagString: Player
@@ -26935,6 +26938,7 @@ MonoBehaviour:
   maxjumps: 1
   airmove: 2
   grounded: 1
+  stopped: 1
 --- !u!95 &1886677283
 Animator:
   serializedVersion: 3
@@ -26994,6 +26998,18 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.8125, y: 0.0625}
   m_EdgeRadius: 0
+--- !u!114 &1886677286
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1886677277}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 563c88a78230f464abdd7d8607b7157d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1925031384
 GameObject:
   m_ObjectHideFlags: 0

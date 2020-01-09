@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlatformMovement : MonoBehaviour
+public class PlatformMovementByFrame : MonoBehaviour
 {
     public Vector2 movedir;
     public float range = 0.0f;
@@ -25,6 +25,6 @@ public class PlatformMovement : MonoBehaviour
             movedir *= -1;
             
         }
-        transform.position = new Vector3(transform.position.x + ((movedir.x / 100) * movespeed), transform.position.y + ((movedir.y / 100) * movespeed), startpos.z);
+        transform.position = new Vector3(transform.position.x + ((movedir.x / 60) * movespeed), transform.position.y + ((movedir.y / 60) * movespeed), startpos.z);
     }
 }

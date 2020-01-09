@@ -293,10 +293,28 @@ Tilemap:
       m_ObjectToInstantiate: {fileID: 0}
       m_TileFlags: 1
       m_ColliderType: 1
+  - first: {x: -1, y: -5, z: 0}
+    second:
+      m_TileIndex: 55
+      m_TileSpriteIndex: 55
+      m_TileMatrixIndex: 0
+      m_TileColorIndex: 0
+      m_ObjectToInstantiate: {fileID: 0}
+      m_TileFlags: 1
+      m_ColliderType: 1
   - first: {x: -2, y: -4, z: 0}
     second:
       m_TileIndex: 25
       m_TileSpriteIndex: 25
+      m_TileMatrixIndex: 0
+      m_TileColorIndex: 0
+      m_ObjectToInstantiate: {fileID: 0}
+      m_TileFlags: 1
+      m_ColliderType: 1
+  - first: {x: -1, y: -4, z: 0}
+    second:
+      m_TileIndex: 54
+      m_TileSpriteIndex: 54
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -637,6 +655,10 @@ Tilemap:
     m_Data: {fileID: 11400000, guid: 1c58c430afd34ff40884db95a4ce5b07, type: 2}
   - m_RefCount: 1
     m_Data: {fileID: 11400000, guid: 9340e8884b7c2144bbddbcb6bbad9d7c, type: 2}
+  - m_RefCount: 1
+    m_Data: {fileID: 11400000, guid: c9f03f4a2a8edce45bae08784d48fe76, type: 2}
+  - m_RefCount: 1
+    m_Data: {fileID: 11400000, guid: 13f3b8f307713a548a0e7f96b4f86ddb, type: 2}
   m_TileSpriteArray:
   - m_RefCount: 1
     m_Data: {fileID: 874917634992114260, guid: 62c2ba3a756285e42b3b2e57cf5c9942, type: 3}
@@ -795,8 +817,14 @@ Tilemap:
   - m_RefCount: 1
     m_Data: {fileID: -4273318293504024739, guid: 28a6e4b1b2c30074d992fa01efa2e862,
       type: 3}
+  - m_RefCount: 1
+    m_Data: {fileID: 6723963429988506304, guid: 1df1a67576f82df41840c71c5255c1b5,
+      type: 3}
+  - m_RefCount: 1
+    m_Data: {fileID: -7010832575621253078, guid: 1df1a67576f82df41840c71c5255c1b5,
+      type: 3}
   m_TileMatrixArray:
-  - m_RefCount: 54
+  - m_RefCount: 56
     m_Data:
       e00: 1
       e01: 0
@@ -815,7 +843,7 @@ Tilemap:
       e32: 0
       e33: 1
   m_TileColorArray:
-  - m_RefCount: 54
+  - m_RefCount: 56
     m_Data: {r: 1, g: 1, b: 1, a: 1}
   m_AnimationFrameRate: 1
   m_Color: {r: 1, g: 1, b: 1, a: 1}

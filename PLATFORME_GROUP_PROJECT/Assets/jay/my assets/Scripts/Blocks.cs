@@ -62,7 +62,8 @@ public class Blocks : MonoBehaviour
             if (bloktype == "?")
             {
                 if (subtype == "i")
-                { 
+                {
+                    itemtospawn = powerup1;
                     GameObject spawn = Instantiate(itemtospawn, transform.position, Quaternion.identity);
                     spawn.GetComponent<Rigidbody2D>().velocity = direction * launchpower;
                     bloktype = "e?";
@@ -87,6 +88,7 @@ public class Blocks : MonoBehaviour
             {
                 if (subtype == "i")
                 {
+                    itemtospawn = powerup1;
                     GameObject spawn = Instantiate(itemtospawn, transform.position, Quaternion.identity);
                     spawn.GetComponent<Rigidbody2D>().velocity = direction * launchpower;
                     bloktype = "eb";

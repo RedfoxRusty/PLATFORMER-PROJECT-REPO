@@ -8,13 +8,13 @@ public class startmenu : MonoBehaviour
 {
     public int lives = 5;
     public int coins = 0;
-    public void start()
-    {
-        Time.timeScale = 1;
-        SceneManager.LoadScene("lvl 1");
-        PlayerPrefs.SetInt("lives", lives);
-        PlayerPrefs.SetInt("coins", coins);
-    }
+    //public void Start()
+    //{
+    //    Time.timeScale = 1;
+    //    SceneManager.LoadScene("lvl 1");
+    //    PlayerPrefs.SetInt("lives", lives);
+    //    PlayerPrefs.SetInt("coins", coins);
+    //}
 
     public void quitgame()
     {
@@ -24,5 +24,11 @@ public class startmenu : MonoBehaviour
     public void settings()
     {
 
+    }
+
+    public void Reset()
+    {
+        PlayerPrefs.SetInt("lives", lives);
+        PlayerPrefs.SetInt("coins", coins);
     }
 }

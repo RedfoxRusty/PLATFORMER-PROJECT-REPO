@@ -1,34 +1,37 @@
 fileFormatVersion: 2
-guid: d01344c9a21aee74ca7ef0064bde5232
+guid: ba92d10f2282a34449afeaee77306d3e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1215234557784624203
-    second: ActualProtagPlatformChan[1]_0
+      213: -8885933888830812468
+    second: ActualProtagPlatformChan[1] (1)_0
   - first:
-      213: 6964109278265760553
-    second: ActualProtagPlatformChan[1]_1
+      213: 2816273467908069357
+    second: ActualProtagPlatformChan[1] (1)_1
   - first:
-      213: 5345784645630228771
-    second: ActualProtagPlatformChan[1]_2
+      213: 4408422267359177868
+    second: ActualProtagPlatformChan[1] (1)_2
   - first:
-      213: 5517712180758898324
-    second: ActualProtagPlatformChan[1]_3
+      213: -4536582353635978546
+    second: ActualProtagPlatformChan[1] (1)_3
   - first:
-      213: -5480282101329767253
-    second: ActualProtagPlatformChan[1]_4
+      213: -78907037050819148
+    second: ActualProtagPlatformChan[1] (1)_4
   - first:
-      213: 9073097910507134717
-    second: ActualProtagPlatformChan[1]_5
+      213: -8877427181135394362
+    second: ActualProtagPlatformChan[1] (1)_5
   - first:
-      213: 1746707574778659311
-    second: ActualProtagPlatformChan[1]_6
+      213: -1714918987322636792
+    second: ActualProtagPlatformChan[1] (1)_6
   - first:
-      213: 8382990953539320513
-    second: ActualProtagPlatformChan[1]_7
+      213: -3541552820766476862
+    second: ActualProtagPlatformChan[1] (1)_7
   - first:
-      213: -198586505950888833
-    second: ActualProtagPlatformChan[1]_8
+      213: -6805939014573743815
+    second: ActualProtagPlatformChan[1] (1)_8
+  - first:
+      213: 1773733936442496662
+    second: ActualProtagPlatformChan[1] (1)_9
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -113,7 +116,70 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ActualProtagPlatformChan[1]_0
+      name: ActualProtagPlatformChan[1] (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d1aab606311fd4daaa5b6b1e0306af
+      internalID: -8885933888830812468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ActualProtagPlatformChan[1] (1)_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749de824d5988ea4cb0cc2e21d3ac7f7
+      internalID: 2816273467908069357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ActualProtagPlatformChan[1] (1)_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244b9d971b159b4449b17be5787e1403
+      internalID: 4408422267359177868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ActualProtagPlatformChan[1] (1)_3
       rect:
         serializedVersion: 2
         x: 0
@@ -127,14 +193,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7fa18cb7bcdc8244ab5103b4b84b9eab
-      internalID: 1215234557784624203
+      spriteID: ce7f81add357c584998014f118844c43
+      internalID: -4536582353635978546
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ActualProtagPlatformChan[1]_1
+      name: ActualProtagPlatformChan[1] (1)_4
       rect:
         serializedVersion: 2
         x: 32
@@ -148,14 +214,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e8523d943849de443b536c4e69e19445
-      internalID: 6964109278265760553
+      spriteID: 0b744d0ebc29fe644bb356ab43f3a47c
+      internalID: -78907037050819148
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ActualProtagPlatformChan[1]_2
+      name: ActualProtagPlatformChan[1] (1)_5
       rect:
         serializedVersion: 2
         x: 64
@@ -169,14 +235,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f4e249c8031b17e4194fa1365d2020a5
-      internalID: 5345784645630228771
+      spriteID: 71690cf1f146c3e4ca3e11073c887131
+      internalID: -8877427181135394362
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ActualProtagPlatformChan[1]_3
+      name: ActualProtagPlatformChan[1] (1)_6
       rect:
         serializedVersion: 2
         x: 0
@@ -190,14 +256,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 82f307ba2f25055408dec48f5ecdabbf
-      internalID: 5517712180758898324
+      spriteID: 038b3fbec710a2c4295c1c89ac96ed4a
+      internalID: -1714918987322636792
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ActualProtagPlatformChan[1]_4
+      name: ActualProtagPlatformChan[1] (1)_7
       rect:
         serializedVersion: 2
         x: 32
@@ -211,14 +277,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d3748be63ee111f43a0845e94b6060cb
-      internalID: -5480282101329767253
+      spriteID: e5f3086059d58d9438036b01b02589a5
+      internalID: -3541552820766476862
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ActualProtagPlatformChan[1]_5
+      name: ActualProtagPlatformChan[1] (1)_8
       rect:
         serializedVersion: 2
         x: 64
@@ -232,14 +298,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b2cd0480b55836842926940d8adb42d1
-      internalID: 9073097910507134717
+      spriteID: f7a37d6222619bd48971c0e079dd475c
+      internalID: -6805939014573743815
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ActualProtagPlatformChan[1]_6
+      name: ActualProtagPlatformChan[1] (1)_9
       rect:
         serializedVersion: 2
         x: 0
@@ -253,50 +319,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cf3c5770e3b059a42acecce18dc873ca
-      internalID: 1746707574778659311
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ActualProtagPlatformChan[1]_7
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f3b089fe56ed1404b827ab50e6f40e4a
-      internalID: 8382990953539320513
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ActualProtagPlatformChan[1]_8
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 10c4f8f79df5f7443b07c8e00da219e3
-      internalID: -198586505950888833
+      spriteID: 857fbaaf7a1b2484babc2ccc490c612a
+      internalID: 1773733936442496662
       vertices: []
       indices: 
       edges: []

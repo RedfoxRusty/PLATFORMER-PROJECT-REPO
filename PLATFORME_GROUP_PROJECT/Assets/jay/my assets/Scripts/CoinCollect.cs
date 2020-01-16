@@ -31,7 +31,7 @@ public class CoinCollect : MonoBehaviour
             Coin = PlayerPrefs.GetInt("coins");
             cointext.text = "COINS: " + Coin; //+ "/" + goal;
             Destroy(collision.gameObject);
-            if ( Coin % 100 == 0 )
+            if ( Coin % 50 == 0 )
             {
                 int lives = PlayerPrefs.GetInt("lives");
                 PlayerPrefs.SetInt("lives", lives + 1);

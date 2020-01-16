@@ -14,7 +14,7 @@ public class camerafollow : MonoBehaviour
     public float lowerlimit;
     public string lvlName;
     string nxtlvl;
-
+    public float nextlevelposition = 103;
     // Start is called before the first frame update
     void Start()
     {
@@ -53,7 +53,7 @@ public class camerafollow : MonoBehaviour
         {
             transform.position = new Vector3(1, transform.position.y, transform.position.z);
         }
-        if (player.position.x >= 103)
+        if (player.position.x >= nextlevelposition)
         {
             fader.GetComponent<LevelFade>().run();
         }

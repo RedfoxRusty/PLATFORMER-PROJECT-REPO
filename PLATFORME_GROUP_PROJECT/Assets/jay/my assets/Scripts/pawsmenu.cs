@@ -39,7 +39,7 @@ public class pawsmenu : MonoBehaviour
     public void loadmainmenu()
     {
         Time.timeScale = 1;
-        SceneManager.LoadScene("main menu");
+        SceneManager.LoadScene("Menu");
     }
 
     public void quitgame()

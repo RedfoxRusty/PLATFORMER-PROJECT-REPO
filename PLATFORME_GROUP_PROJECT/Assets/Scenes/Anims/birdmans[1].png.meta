@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 56c452c2a6c9abc43b926d213f7ed0bc
+guid: f831a42d456c30c4a8ad37e3328cf04c
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -14,6 +14,18 @@ TextureImporter:
   - first:
       213: -4375384191184064251
     second: birdmans[1]_3
+  - first:
+      213: -2340249811016026304
+    second: birdmans[1]_4
+  - first:
+      213: 1635001994316311252
+    second: birdmans[1]_5
+  - first:
+      213: 3764677364575535127
+    second: birdmans[1]_6
+  - first:
+      213: -2100136320552551241
+    second: birdmans[1]_7
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -57,7 +69,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 64
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -102,6 +114,69 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762a2c8eed3af6e4c84ca986adfd613e
+      internalID: 5283880498662426932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birdmans[1]_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c64052d992a95d4ca5b440dafa3beb9
+      internalID: 5668408197326382265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birdmans[1]_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b36f5c65ed02914784cc1d74a6647a6
+      internalID: -3721952297565778393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birdmans[1]_3
+      rect:
+        serializedVersion: 2
+        x: 0
         y: 32
         width: 32
         height: 32
@@ -112,14 +187,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7a8681b6414ebb041a1047531b142334
-      internalID: 5283880498662426932
+      spriteID: 60ee05718fc5000488daf29dc4f04c8c
+      internalID: -4375384191184064251
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: birdmans[1]_1
+      name: birdmans[1]_4
       rect:
         serializedVersion: 2
         x: 32
@@ -133,14 +208,35 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 07a70c3ae8d312944a0158ec14188579
-      internalID: 5668408197326382265
+      spriteID: 76bee40822259aa418e628c5cefe5e38
+      internalID: -2340249811016026304
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: birdmans[1]_2
+      name: birdmans[1]_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7584e4ff35b47c145a637a4c48acacc6
+      internalID: 1635001994316311252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: birdmans[1]_6
       rect:
         serializedVersion: 2
         x: 0
@@ -154,14 +250,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dac2e6bbdeea26042b78982a99a5d830
-      internalID: -3721952297565778393
+      spriteID: 839d66f5b98f5e8408c49f7542bf6b48
+      internalID: 3764677364575535127
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: birdmans[1]_3
+      name: birdmans[1]_7
       rect:
         serializedVersion: 2
         x: 32
@@ -175,8 +271,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7da9ccc5ccd67b04ca5b18e6fbcc39c0
-      internalID: -4375384191184064251
+      spriteID: 246d37b37c5696f448553134d9bf88cf
+      internalID: -2100136320552551241
       vertices: []
       indices: 
       edges: []

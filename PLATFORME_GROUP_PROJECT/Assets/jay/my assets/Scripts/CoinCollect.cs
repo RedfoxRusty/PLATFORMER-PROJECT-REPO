@@ -21,7 +21,7 @@ public class CoinCollect : MonoBehaviour
         cointext.text = "COINS: " + Coin;
     }
 
-    void OnCollisionEnter2D(Collision2D collision)
+    private void OnTriggerEnter2D(Collider2D collision)
     {
         if(collision.gameObject.tag == "coin")
         {
@@ -36,7 +36,9 @@ public class CoinCollect : MonoBehaviour
                 int lives = PlayerPrefs.GetInt("lives");
                 PlayerPrefs.SetInt("lives", lives + 1);
             }
+           
         }
+       
         
     }
 }

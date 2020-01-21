@@ -8,13 +8,13 @@ public class startmenu : MonoBehaviour
 {
     public int lives = 5;
     public int coins = 0;
-    //public void Start()
-    //{
-    //    Time.timeScale = 1;
-    //    SceneManager.LoadScene("lvl 1");
-    //    PlayerPrefs.SetInt("lives", lives);
-    //    PlayerPrefs.SetInt("coins", coins);
-    //}
+    public void loadlevel()
+    {
+      Time.timeScale = 1;
+      SceneManager.LoadScene("SampleScene");
+      PlayerPrefs.SetInt("lives", lives);
+      PlayerPrefs.SetInt("coins", coins);
+    }
 
     public void quitgame()
     {

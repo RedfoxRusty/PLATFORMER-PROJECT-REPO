@@ -4,6 +4,8 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 public class Spikey : MonoBehaviour
 {
+    public int lives = 5;
+    public int coins = 0;
     // Start is called before the first frame update
     void Start()
     {
@@ -19,7 +21,9 @@ public class Spikey : MonoBehaviour
     {
         if (collision.gameObject.tag == "Spike")
         {
-            SceneManager.LoadScene(SceneManager.GetActiveScene().name); 
+            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+            PlayerPrefs.SetInt("lives", 5);
+            PlayerPrefs.SetInt("coins", 0);
         }
     }
 }

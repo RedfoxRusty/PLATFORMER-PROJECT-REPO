@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class enemypace : MonoBehaviour
 {
+   
     float timer = 0.0f;
     public Vector2 movedir0;
     public Vector2 movedir1;
@@ -55,7 +56,7 @@ public class enemypace : MonoBehaviour
             {
                 //movedir0 *= -1;
                 timer = 0;
-                cycle ++;
+                cycle++;
             }
             GetComponent<Rigidbody2D>().velocity = movedir0 * movespeed;
 
@@ -223,7 +224,13 @@ public class enemypace : MonoBehaviour
                 cycle = 0;
             }
             GetComponent<Rigidbody2D>().velocity = movedir15 * movespeed;
+            Vector2 velocity = GetComponent<Rigidbody2D>().velocity;
 
+                
+           
+           
+           
         }
+        }   
     }
-}
+

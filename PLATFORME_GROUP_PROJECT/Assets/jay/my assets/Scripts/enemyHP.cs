@@ -8,7 +8,7 @@ public class enemyHP : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.gameObject.tag == "playerbullet")
+        if (collision.gameObject.tag == "Bullet")
         {
             hp--;
             if (hp < 1)

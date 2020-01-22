@@ -41,14 +41,14 @@ public class PlayerHP : MonoBehaviour
         health--;
         if (health < 1)
         {
-            if (lives > 0)
+            if (lives >= 0)
             {
                 PlayerPrefs.SetInt("lives", lives - 1);
                 SceneManager.LoadScene(SceneManager.GetActiveScene().name);
             }
             else
             {
-                SceneManager.LoadScene("gameover");
+                SceneManager.LoadScene("Menu");
             }
         }
     }

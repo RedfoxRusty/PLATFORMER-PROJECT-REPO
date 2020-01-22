@@ -13,7 +13,9 @@ GameObject:
   - component: {fileID: 5222753008898528226}
   - component: {fileID: 5222753008898528225}
   - component: {fileID: 5222753008898528224}
+  - component: {fileID: 752752940551733797}
   - component: {fileID: 5222753008898528231}
+  - component: {fileID: 4249840105877352576}
   - component: {fileID: 5222753008898528157}
   - component: {fileID: 5222753008898528230}
   - component: {fileID: 5222753008898528158}
@@ -165,6 +167,18 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
+--- !u!114 &752752940551733797
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5222753008898528229}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e90b0e7198fea694a9779cc482a4459d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!95 &5222753008898528231
 Animator:
   serializedVersion: 3
@@ -184,6 +198,23 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &4249840105877352576
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5222753008898528229}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88fc5b19dfc7d1d4fa8eac6c2f78ccbb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pow: 0
+  prefab: {fileID: 0}
+  shootSpeed: 15
+  bulletLifetime: 2
+  shootDelay: 1
 --- !u!114 &5222753008898528157
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -245,6 +276,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d3fc0f255abd9f44791665cb537920d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  lives: 5
+  coins: 0
 --- !u!114 &-2730652565265012334
 MonoBehaviour:
   m_ObjectHideFlags: 0

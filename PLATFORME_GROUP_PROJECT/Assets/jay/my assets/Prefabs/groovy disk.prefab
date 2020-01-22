@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2885602509982311475}
   - component: {fileID: 4426322885639196905}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: Point Light 2D (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -80,7 +80,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6216294335644183643}
   - component: {fileID: 5884580668994029008}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: Point Light 2D (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -150,7 +150,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5257778542648351029}
   - component: {fileID: 7407680106235546062}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: Point Light 2D (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -220,7 +220,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6077380414989699470}
   - component: {fileID: 5014202632328518198}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: Point Light 2D (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -290,7 +290,7 @@ GameObject:
   m_Component:
   - component: {fileID: 9101772629940048990}
   - component: {fileID: 7679980233340471289}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: Point Light 2D (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -362,9 +362,10 @@ GameObject:
   - component: {fileID: 4789448878766611975}
   - component: {fileID: 4789448878766611974}
   - component: {fileID: 4789448878766611969}
-  m_Layer: 0
+  - component: {fileID: 9214387471070035764}
+  m_Layer: 16
   m_Name: groovy disk
-  m_TagString: Untagged
+  m_TagString: Bullet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -378,7 +379,7 @@ Transform:
   m_GameObject: {fileID: 4789448878766611968}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 29.511, y: -2.363, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.5, y: 0.5, z: 1}
   m_Children:
   - {fileID: 2054232250049437997}
   - {fileID: 5257778542648351029}
@@ -450,7 +451,7 @@ CircleCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -477,6 +478,18 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &9214387471070035764
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4789448878766611968}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9d81764045200443a63c1f596751732, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &5953363240963530330
 GameObject:
   m_ObjectHideFlags: 0
@@ -487,7 +500,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2054232250049437997}
   - component: {fileID: 6387057230006250229}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: Point Light 2D (0)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -557,7 +570,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1433539402651412668}
   - component: {fileID: 7720409069350330927}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: Point Light 2D (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -627,7 +640,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4655523694271267992}
   - component: {fileID: 3022081031498674515}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: Point Light 2D (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}

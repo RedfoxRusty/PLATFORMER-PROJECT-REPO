@@ -15,8 +15,9 @@ GameObject:
   - component: {fileID: 7667165251949346209}
   - component: {fileID: 7667165251949346234}
   - component: {fileID: 7667165251949346214}
+  - component: {fileID: -4978062002530935994}
   m_Layer: 0
-  m_Name: New Sprite
+  m_Name: RedBird
   m_TagString: enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -169,3 +170,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c6405141d6f50f247ae5fd9ac29449d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &-4978062002530935994
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7667165251949346211}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8927ca8231c1be49ad355815cca3f33, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hp: 3

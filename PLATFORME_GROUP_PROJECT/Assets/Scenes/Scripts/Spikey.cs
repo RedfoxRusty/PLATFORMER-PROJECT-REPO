@@ -22,7 +22,14 @@ public class Spikey : MonoBehaviour
         if (collision.gameObject.tag == "Spike")
         {
             SceneManager.LoadScene(SceneManager.GetActiveScene().name);
-            PlayerPrefs.SetInt("lives", 5);
+            //1PlayerPrefs.SetInt("lives", 5);
+            PlayerPrefs.SetInt("coins", 0);
+            lives--;
+        }
+        if (collision.gameObject.tag == "enemy")
+        {
+            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+            //PlayerPrefs.SetInt("lives", 5);
             PlayerPrefs.SetInt("coins", 0);
         }
     }

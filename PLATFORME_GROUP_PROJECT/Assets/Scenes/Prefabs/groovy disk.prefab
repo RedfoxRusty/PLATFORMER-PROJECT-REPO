@@ -12,9 +12,9 @@ GameObject:
   - component: {fileID: 896037285087365829}
   - component: {fileID: 896037285087365828}
   - component: {fileID: 896037285087365827}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: groovy disk
-  m_TagString: Untagged
+  m_TagString: Bullet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -121,7 +121,7 @@ Rigidbody2D:
   m_Mass: 1
   m_LinearDrag: 0
   m_AngularDrag: 0.05
-  m_GravityScale: 1
+  m_GravityScale: 0
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
@@ -137,7 +137,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1045795445345980506}
   - component: {fileID: 7487306842491135377}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: Point Light 2D (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -207,7 +207,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5952296426137236975}
   - component: {fileID: 1638102987869617719}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: Point Light 2D (0)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -277,7 +277,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6772326651028421758}
   - component: {fileID: 2683213455920543469}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: Point Light 2D (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -347,7 +347,7 @@ GameObject:
   m_Component:
   - component: {fileID: 499819236942433783}
   - component: {fileID: 2942410248243141900}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: Point Light 2D (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -417,7 +417,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1755385207294113945}
   - component: {fileID: 2284149336237445394}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: Point Light 2D (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -487,7 +487,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7355345183411351793}
   - component: {fileID: 8319734551241901099}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: Point Light 2D (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -557,7 +557,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1895986860711550284}
   - component: {fileID: 832833821243117300}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: Point Light 2D (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -627,7 +627,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3483299785922216092}
   - component: {fileID: 2633499794003350331}
-  m_Layer: 0
+  m_Layer: 16
   m_Name: Point Light 2D (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
